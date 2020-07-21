@@ -1,0 +1,14 @@
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.csprojAssemblyReference.cache
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.FormNormal.resources
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.Properties.Resources.resources
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.csproj.GenerateResource.cache
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.csproj.CoreCompileInputs.cache
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\bin\Debug\Group3_GameSnack.exe.config
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\bin\Debug\Group3_GameSnack.exe
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\bin\Debug\Group3_GameSnack.pdb
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.exe
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.pdb
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.AdvancedMode.resources
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.Guideness.resources
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.FGuide.resources
+D:\ITHCMUTE\Project\Project 1\Final1-Group3-GameSnack(157)\Group3_GameSnack\Group3_GameSnack\obj\Debug\Group3_GameSnack.FormMain.resources
